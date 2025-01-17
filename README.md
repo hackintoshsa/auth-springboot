@@ -104,4 +104,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Benjamin Ndumiso Modimokwane**
 - GitHub: [https://github.com/hackintoshsa](https://github.com/hackintoshsa)
-- LinkedIn: [https://linkedin.com/in/hackintoshsa](https://linkedin.com/in/hackintoshsa)
