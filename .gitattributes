@@ -1,0 +1,43 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+# Logs
+logs/
+*.log
+*.log.*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven
+target/
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+*.gradle
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+
+# Security files
+secrets/
+*.key
+*.pem
+*.crt
