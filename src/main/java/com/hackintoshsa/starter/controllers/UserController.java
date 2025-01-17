@@ -30,7 +30,7 @@ public class UserController {
       return ResponseEntity.status(HttpStatus.OK).body(userService.loginUser(user.getEmail(), user.getPassword()));
     }
 
-    @PostMapping("/forgot")
+    @PostMapping("/forgot-password")
     public ResponseEntity <Map<String, Object>> forgotUser(@RequestBody User user) throws MessagingException {
         return ResponseEntity.status(HttpStatus.OK).body(userService.forgotPassword(user.getEmail()));
     }
